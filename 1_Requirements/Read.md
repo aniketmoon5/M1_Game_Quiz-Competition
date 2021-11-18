@@ -16,6 +16,11 @@ Language & IDE
 2.Visual studio Code
 
 
+SWOT Analysis
+![132469341-64b936b3-d3e4-4520-a745-ed9a70e6cecb](https://user-images.githubusercontent.com/94234616/142347632-5124d4c1-665b-4fe1-89e7-7a8f1eb834f7.png)
+
+
+
 4W's and 1H
 Who
 Any user who are intersted can take the quiz and enjoy the quiz.
