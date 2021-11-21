@@ -3,8 +3,6 @@
 ![unnamed](https://user-images.githubusercontent.com/94234616/142769408-7adaf761-89aa-477e-8e30-10639ff4df0f.png)
 
 
-## * Central Perk - Game Quiz
-
 ## FOLDER STRUCTURE
 
 | Folder                 | Description |
