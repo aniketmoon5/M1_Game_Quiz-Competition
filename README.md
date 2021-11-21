@@ -3,7 +3,7 @@
 ![unnamed](https://user-images.githubusercontent.com/94234616/142769408-7adaf761-89aa-477e-8e30-10639ff4df0f.png)
 
 
-## *Central Perk - Game Quiz
+## * Central Perk - Game Quiz
 
 ## FOLDER STRUCTURE
 
@@ -29,9 +29,9 @@
 |---------|--------------------------------------|
 | 1       |	Simple Interface                     |
 | 2	      | Accurate output with required values |
-| 3       |	User an cancel Order                 |
-| 4	      | User can Order more                  |
-| 5	      | User gets the Bill                   |
+| 3       |	User an cancel quiz                  |
+| 4	      | User can play more                   |
+| 5	      | User gets the result                 |
 
 
 ## Challenges faced and How it was Overcome
@@ -41,4 +41,4 @@
 | 1	         | Making of UML diagrams	By Studing about the basic concepts of making UML diagram                                 |
 | 2          | Writing all the requirements, Features, Swot analysis, 4W & 1H and High/Low level requirements	By doing research |
 | 3	         | Creating github Workflows	By Code Inspection                                                                    |
-| 4	         |Pushing files and folders to repository by Git bash	By removing all the previous pushed files and folders         |
+| 4	         | Pushing files and folders to repository by Git bash	By removing all the previous pushed files and folders       |
