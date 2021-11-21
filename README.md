@@ -7,7 +7,7 @@
 
 ## FOLDER STRUCTURE
 
-| Folder                 | Desciption |
+| Folder                 | Description |
 |-------------------     |------------|
 | 1_Requirements         | Details about Project |
 | 2_Design               |	Structural and Behavioural UML Diagrams for High Level and Low level Implementation |
