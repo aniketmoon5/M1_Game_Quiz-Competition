@@ -40,3 +40,9 @@
 | 2          | Writing all the requirements, Features, Swot analysis, 4W & 1H and High/Low level requirements	By doing research |
 | 3	         | Creating github Workflows	By Code Inspection                                                                    |
 | 4	         | Pushing files and folders to repository by Git bash	By removing all the previous pushed files and folders       |
+
+## BADGES
+
+https://img.shields.io/appveyor/build/aniketmoon5/https://github.com/aniketmoon5/M1_Game_Quiz-Competition.git?style=for-the-badge
+
+
