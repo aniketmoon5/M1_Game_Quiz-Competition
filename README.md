@@ -46,4 +46,6 @@
 
 https://img.shields.io/appveyor/build/aniketmoon5/https://github.com/aniketmoon5/M1_Game_Quiz-Competition.git
 
+[![C/C++ CI](https://github.com/stepin654321/MiniProject_Template/actions/workflows/c-cpp.yml/badge.svg?branch=Khubichanges)](https://github.com/stepin654321/MiniProject_Template/actions/workflows/c-cpp.yml)
+
 
