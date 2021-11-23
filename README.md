@@ -43,6 +43,7 @@
 
 ## BADGES
 
-https://img.shields.io/appveyor/build/aniketmoon5/https://github.com/aniketmoon5/M1_Game_Quiz-Competition.git?style=for-the-badge
+
+https://img.shields.io/appveyor/build/aniketmoon5/https://github.com/aniketmoon5/M1_Game_Quiz-Competition.git
 
 
