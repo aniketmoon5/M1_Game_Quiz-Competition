@@ -1,0 +1,8 @@
+3_Implementation/SRC/main.c:6:5: warning: Obsolete function 'gets' called. It is recommended to use 'fgets' or 'gets_s' instead. [getsCalled]
+    gets(name);
+    ^
+3_Implementation/Test/test.c:6:5: warning: Obsolete function 'gets' called. It is recommended to use 'fgets' or 'gets_s' instead. [getsCalled]
+    gets(name);
+    ^
+nofile:0:0: information: Cppcheck cannot find all the include files (use --check-config for details) [missingInclude]
+
