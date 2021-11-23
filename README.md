@@ -45,7 +45,9 @@
 
 
 cpp check     - [![cppcheck-action-test](https://github.com/aniketmoon5/M1_Game_Quiz-Competition/actions/workflows/cppcheck.yml/badge.svg?branch=main)](https://github.com/aniketmoon5/M1_Game_Quiz-Competition/actions/workflows/cppcheck.yml)
-Code Inspector - ![Code Inspector](https://api.codiga.io/project/29827/score/svg)
+
+Code Inspector-![](https://api.codiga.io/project/29841/score/svg)
+
 
 
 
