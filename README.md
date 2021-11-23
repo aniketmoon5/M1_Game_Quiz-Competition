@@ -43,6 +43,8 @@
 
 ## BADGES
 
+Code Inspector - ![Code Inspector] https://api.codiga.io/project/29827/score/svg
+
 
 
 
