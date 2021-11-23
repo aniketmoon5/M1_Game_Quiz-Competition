@@ -47,7 +47,8 @@
 cpp check     - [![cppcheck-action-test](https://github.com/aniketmoon5/M1_Game_Quiz-Competition/actions/workflows/cppcheck.yml/badge.svg?branch=main)](https://github.com/aniketmoon5/M1_Game_Quiz-Competition/actions/workflows/cppcheck.yml)
 
 Code Inspector-![](https://api.codiga.io/project/29841/score/svg)
-![](https://api.codiga.io/project/29841/status/svg) [![Codacy Badge](https://app.codacy.com/project/badge/Grade/e3524e62ad904ed2a6359f354f1058a7)
+![](https://api.codiga.io/project/29841/status/svg) 
+|Codacy [![Codacy Badge](https://app.codacy.com/project/badge/Grade/e3524e62ad904ed2a6359f354f1058a7)]
 
 
 
