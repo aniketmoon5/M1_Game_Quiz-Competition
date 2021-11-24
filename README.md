@@ -44,6 +44,7 @@
 ## BADGES
 
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/a95512e9fb324804994159567e94f6b4)](https://app.codacy.com/gh/aniketmoon5/M1_Game_Quiz-Competition?utm_source=github.com&utm_medium=referral&utm_content=aniketmoon5/M1_Game_Quiz-Competition&utm_campaign=Badge_Grade_Settings)
 cpp check     - [![cppcheck-action-test](https://github.com/aniketmoon5/M1_Game_Quiz-Competition/actions/workflows/cppcheck.yml/badge.svg?branch=main)](https://github.com/aniketmoon5/M1_Game_Quiz-Competition/actions/workflows/cppcheck.yml)
 
 Code Inspector-![](https://api.codiga.io/project/29841/score/svg)
