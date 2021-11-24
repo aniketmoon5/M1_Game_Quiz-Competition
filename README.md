@@ -1,5 +1,16 @@
 # M1_Game_Quiz-Competition
 
+## BADGES
+
+
+
+cpp check     - [![cppcheck-action-test](https://github.com/aniketmoon5/M1_Game_Quiz-Competition/actions/workflows/cppcheck.yml/badge.svg?branch=main)](https://github.com/aniketmoon5/M1_Game_Quiz-Competition/actions/workflows/cppcheck.yml)
+
+Code Inspector-![](https://api.codiga.io/project/29841/score/svg)
+![](https://api.codiga.io/project/29841/status/svg) 
+|Codacy [![Codacy Badge] [![Codacy Badge](https://api.codacy.com/project/badge/Grade/a95512e9fb324804994159567e94f6b4)](https://app.codacy.com/gh/aniketmoon5/M1_Game_Quiz-Competition?utm_source=github.com&utm_medium=referral&utm_content=aniketmoon5/M1_Game_Quiz-Competition&utm_campaign=Badge_Grade_Settings)
+
+
 ![unnamed](https://user-images.githubusercontent.com/94234616/142769408-7adaf761-89aa-477e-8e30-10639ff4df0f.png)
 
 
@@ -44,12 +55,12 @@
 ## BADGES
 
 
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/a95512e9fb324804994159567e94f6b4)](https://app.codacy.com/gh/aniketmoon5/M1_Game_Quiz-Competition?utm_source=github.com&utm_medium=referral&utm_content=aniketmoon5/M1_Game_Quiz-Competition&utm_campaign=Badge_Grade_Settings)
+
 cpp check     - [![cppcheck-action-test](https://github.com/aniketmoon5/M1_Game_Quiz-Competition/actions/workflows/cppcheck.yml/badge.svg?branch=main)](https://github.com/aniketmoon5/M1_Game_Quiz-Competition/actions/workflows/cppcheck.yml)
 
 Code Inspector-![](https://api.codiga.io/project/29841/score/svg)
 ![](https://api.codiga.io/project/29841/status/svg) 
-|Codacy [![Codacy Badge](https://app.codacy.com/project/badge/Grade/e3524e62ad904ed2a6359f354f1058a7)]
+|Codacy [![Codacy Badge] [![Codacy Badge](https://api.codacy.com/project/badge/Grade/a95512e9fb324804994159567e94f6b4)](https://app.codacy.com/gh/aniketmoon5/M1_Game_Quiz-Competition?utm_source=github.com&utm_medium=referral&utm_content=aniketmoon5/M1_Game_Quiz-Competition&utm_campaign=Badge_Grade_Settings)
 
 
 
